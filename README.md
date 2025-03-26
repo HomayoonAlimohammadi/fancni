@@ -1,3 +1,7 @@
+# Moved to https://github.com/canonical/fancni 
+
+---
+
 # Fan CNI - A CNI Plugin Based On Fan Networking
 
 FanCNI is a CNI plugin based on [Ubuntu fan networking](https://wiki.ubuntu.com/FanNetworking).
